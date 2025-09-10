@@ -276,7 +276,7 @@ const Contact = () => {
                     className="space-y-2"
                   >
                     <h4 className="font-medium text-sm">What types of projects do you take on?</h4>
-                    <p className="text-sm text-muted-foreground">Data analysis, dashboard creation, business intelligence solutions, and more.</p>
+                    <p className="text-sm text-muted-foreground">Frontend Development, Web Applications, API Integrations, and more.</p>
                   </motion.div>
                   
                   <motion.div
