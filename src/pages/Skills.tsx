@@ -110,7 +110,7 @@ const ToolCard = ({ tool, index }: { tool: typeof tools[0], index: number }) => 
 const Skills = () => {
   return (
     <MainLayout>
-      <SEO title="Skills & Tools - SANTHOSHKUMAR's Portfolio" description="Technical skills, programming languages, and tools I use for development." />
+      <SEO title="Skills & Tools - SANTHOSH's Portfolio" description="Technical skills, programming languages, and tools I use for development." />
       <section id="skills" className="container mx-auto px-4 sm:px-6 py-12 sm:py-16 lg:py-20">
         {/* Skills Section */}
         <section className="space-y-8">
