@@ -14,7 +14,7 @@ export default function Projects() {
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
       github: "https://github.com/Santhoshkumar311",
-      live: "https://food-cart-jog3anb97-santhoshkumars-projects-e5ba15b7.vercel.app/",
+      live: "https://food-cart-theta-sable.vercel.app",
       featured: true
     },
     {
