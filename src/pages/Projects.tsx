@@ -85,18 +85,7 @@ export default function Projects() {
       live: "https://santhoshkumar311.github.io/Veloce/",
       featured: true
     },
-     {
-      id: 2,
-      title: "E-Commerce Website",
-      description: "Built a responsive e-commerce website for clothing collections with product categories, customer experience highlights, and “Shop Now” call-to-actions. Designed with HTML, CSS, and JavaScript to deliver a clean and user-friendly shopping experience.",
-      image: "/commerce.png",
-      category: "Frontend Development",
-      technologies: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Santhoshkumar311",
-      live: "https://santhoshkumar311.github.io/Veloce/",
-      featured: true
-    },
-
+   
 
    
     
