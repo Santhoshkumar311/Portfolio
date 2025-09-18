@@ -80,7 +80,7 @@ const Contact = () => {
   return (
     <MainLayout>
       <SEO 
-        title="Contact - santhoshkumar | Frontend Developer"
+        title="Contact - santhosh | Frontend Developer"
         description="Get in touch with santhoshkumar for data analysis projects, collaborations, or inquiries."
       />
       

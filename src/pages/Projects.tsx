@@ -6,6 +6,17 @@ import { ExternalLink, Github, Eye } from "lucide-react";
 export default function Projects() {
   const projects = [
   
+      {
+      id: 7,
+      title: "Food-Cart",
+      description: "A frontend clone of the Food Cart website built using HTML, CSS, JavaScript and React.js. The project focuses on responsive design, clean UI, and interactive elements to replicate the look and feel of the original site.",
+      image: "/Food-cart.png",
+      category: "Frontend Development",
+      technologies: ["HTML", "CSS", "JavaScript", "React.js"],
+      github: "https://github.com/Santhoshkumar311",
+      live: "https://food-cart-jog3anb97-santhoshkumars-projects-e5ba15b7.vercel.app/",
+      featured: true
+    },
     {
       id: 1,
       title: "Nat-Habit-Clone",
@@ -17,17 +28,7 @@ export default function Projects() {
       live: "https://santhoshkumar311.github.io/Nat-Habit-Clone/",
       featured: true
     },
-      {
-      id: 2,
-      title: "E-Commerce Website",
-      description: "Built a responsive e-commerce website for clothing collections with product categories, customer experience highlights, and “Shop Now” call-to-actions. Designed with HTML, CSS, and JavaScript to deliver a clean and user-friendly shopping experience.",
-      image: "/commerce.png",
-      category: "Frontend Development",
-      technologies: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Santhoshkumar311",
-      live: "https://santhoshkumar311.github.io/Veloce/",
-      featured: true
-    },
+ 
 
      {
       id: 3,
@@ -48,7 +49,7 @@ export default function Projects() {
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
       github: "https://github.com/Santhoshkumar311",
-      live: "https://bmi-calculator-q5067s0cz-santhoshkumars-projects-e5ba15b7.vercel.app/",
+      live: "https://bmi-calculator-vert-eight.vercel.app/",
       featured: true
     },
     {
@@ -70,7 +71,18 @@ export default function Projects() {
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
       github: "https://github.com/Santhoshkumar311",
-      live: "https://weather-app-react.vercel.app/",
+      live: "https://reactweatherapp-silk.vercel.app/",
+      featured: true
+    },
+     {
+      id: 2,
+      title: "E-Commerce Website",
+      description: "Built a responsive e-commerce website for clothing collections with product categories, customer experience highlights, and “Shop Now” call-to-actions. Designed with HTML, CSS, and JavaScript to deliver a clean and user-friendly shopping experience.",
+      image: "/commerce.png",
+      category: "Frontend Development",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/Santhoshkumar311",
+      live: "https://santhoshkumar311.github.io/Veloce/",
       featured: true
     },
 
@@ -82,11 +94,11 @@ export default function Projects() {
 
   return (
     <MainLayout>
-      <SEO title="Projects - SANTHOSHKUMAR's Portfolio" description="A showcase of my data analytics and business intelligence projects." />
+      <SEO title="Projects - SANTHOSH's Portfolio" description="A showcase of my data analytics and business intelligence projects." />
       <section id="projects" className="container mx-auto px-4 sm:px-6 py-12 sm:py-16 lg:py-20">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold mb-4">My Projects</h1>
-          <p className="text-xl text-muted-foreground">Data-driven solutions that transform business insights</p>
+          <p className="text-xl text-muted-foreground"></p>
         </div>
         
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
