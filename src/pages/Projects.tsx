@@ -49,7 +49,7 @@ export default function Projects() {
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
       github: "https://github.com/Santhoshkumar311",
-      live: "https://bmi-calculator-q5067s0cz-santhoshkumars-projects-e5ba15b7.vercel.app/",
+      live: "https:https://bmi-calculator-vert-eight.vercel.app/",
       featured: true
     },
     {
