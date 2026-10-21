@@ -13,7 +13,7 @@ export default function Projects() {
       image: "/Food-cart.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "https://github.com/Santhosh",
       live: "https://food-cart-theta-sable.vercel.app/",
       featured: true
     },
@@ -24,7 +24,7 @@ export default function Projects() {
       image: "/nathabit.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "",
       live: "https://santhoshkumar311.github.io/Nat-Habit-Clone/",
       featured: true
     },
@@ -37,7 +37,7 @@ export default function Projects() {
       image: "/Qr.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "https://github.com/Santhosh",
       live: "https://qr-app-kohl.vercel.app/",
       featured: true
     },
@@ -48,7 +48,7 @@ export default function Projects() {
       image: "/BMI.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "https://github.com/Santhosh",
       live: "https://bmi-calculator-vert-eight.vercel.app/",
       featured: true
     },
@@ -59,7 +59,7 @@ export default function Projects() {
       image: "/currency.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "https://github.com/Santhosh",
       live: "https://currency-converter-five-pearl.vercel.app/",
       featured: true
     },
@@ -70,7 +70,7 @@ export default function Projects() {
       image: "/weater.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript", "React.js"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "https://github.com/Santhosh",
       live: "https://reactweatherapp-silk.vercel.app/",
       featured: true
     },
@@ -81,7 +81,7 @@ export default function Projects() {
       image: "/commerce.png",
       category: "Frontend Development",
       technologies: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Santhoshkumar311",
+      github: "https://github.com/Santhosh",
       live: "https://santhoshkumar311.github.io/Veloce/",
       featured: true
     },
